@@ -1,9 +1,7 @@
-**My Neovim and Fish Config Files**
+### **My Neovim and Fish Config Files**
 
-
->Hello This repo is for my neovim and fish config fles 
->which is my minimal setup
->for Web and Python Development
+`Minimal Setup of neovim
+And Minimal Config for fish shell`
 
 ***My Social Media Links***
 
