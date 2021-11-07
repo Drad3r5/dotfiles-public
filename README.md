@@ -1,5 +1,5 @@
-**dotfiles-public**
-> My Neovim and Fish Config Files
+***dotfiles-public***
+**My Neovim and Fish Config Files**
 
 
 ```plain
@@ -10,7 +10,11 @@ for web and python development and java game development
 ***My Social Media Links***
 
 [Youtube](https://www.youtube.com/channel/UCbX1H5g4fJl42VakdlaebjA)
+<br>
 [Discord Server](https://discord.com)
+<br>
 [Facebook](https://facebook.com)
+<br>
 [Twitter]()
+<br>
 [Instagram]()
