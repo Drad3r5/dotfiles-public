@@ -1,7 +1,7 @@
 ### **My Neovim and Fish Config Files**
 
-`Minimal Setup of neovim
-And Minimal Config for fish shell`
+`Minimal Setup of neovim`
+`And Minimal Config for fish shell`
 
 ***My Social Media Links***
 
