@@ -1,3 +1,2 @@
-* gfgfgfgffg
-** dfdfdfdfdf
-*** swdsfdfsdfsdfsdfsi
+## My Neovim Config and Other Stuff
+
